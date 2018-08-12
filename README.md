@@ -1,4 +1,3 @@
-# wg-qa-testing-dx
-QA, Testing and Dev Team Enablement Working Group
+# Dev Team Enablement (QA, Testing, Support) Working Group
 
-Everything is being tracked in issues: https://github.com/ipfs/wg-qa-testing-dx/issues
+Everything is being tracked in issues: https://github.com/ipfs/testing/issues
