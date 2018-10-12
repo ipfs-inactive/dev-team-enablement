@@ -1,9 +1,7 @@
 # Testing Working Group (Developer Experience/Enablement, QA, Testing, Support)
 
-## Weekly Meetings
-
-We meet weekly to talk about progress and any blockers weekly on Tuesdays at
-16:00 UTC. You can join the meeting here: https://protocol.zoom.us/j/557799690
+## Notice
+This WG is in the process of being shut down! Further information will be here shortly.
 
 ## Dashboards
 
