@@ -1,6 +1,7 @@
-# Testing Working Group (Developer Experience/Enablement, QA, Testing, Support)
+# Developer Experience Working Group
 
 ## Notice
+
 This WG is in the process of being shut down! Further information will be here shortly.
 
 ## Dashboards
