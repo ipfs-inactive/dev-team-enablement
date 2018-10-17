@@ -1,8 +1,8 @@
-# Developer Experience Working Group
+# Dev Team Enablement Working Group
 
-## Notice
+## `NOTICE`
 
-This WG is in the process of being shut down! Further information will be here shortly.
+**The Dev Team Enablement Working Group is currently paused/dismantled.** Further information will be here shortly.
 
 ## Dashboards
 
@@ -22,25 +22,30 @@ If you want to open a issue, please try to follow the templates if applicable. Y
 ## Repositories
 
 ### Utilities
+
 - https://github.com/ipfs/kubernetes-ipfs - Full Kubernetes deployment containing IPFS
 - https://github.com/ipfs/test-lab - InterPlanetary Test Lab
 - https://github.com/ipfs/project-repos - Project Health Metrics
 
 ### Aegir
+
 - https://github.com/ipfs/aegir - Automated JavaScript project building
 - https://github.com/ipfs/aegir-test-repo - Repository for testing AEgir changes
 
 ### Benchmarks/Profiling
+
 - https://github.com/ipfs/benchmark-js.ipfs.io - Benchmarking interface for js-ipfs
 - https://github.com/ipfs/ipfs-performance-profiling - Benchmarking tests for js-ipfs, using go-ipfs as a baseline
 
 ### CI
+
 - https://github.com/ipfs/jenkins-libs - Reusable Jenkins Pipelines
 - https://github.com/ipfs/jenkins - Jenkins Infrastructure Setup
 - https://github.com/ipfs/ci-helpers - Helper Scripts for CI
 - https://github.com/ipfs/ci-sync - Dashboard for Repositories and their CI status
 
 ### Interop
+
 - https://github.com/ipfs/pdd - Protocol Driven Development
 - https://github.com/ipfs/interop - Interoperability tests for IPFS Implementations (Protocol Interop)
 - https://github.com/ipfs/interface-ipfs-core - A test suite and interface you can use to implement a IPFS core interface
