@@ -2,7 +2,10 @@
 
 ## `NOTICE`
 
-**The Dev Team Enablement Working Group is currently paused/dismantled.** Further information will be here shortly.
+**The Dev Team Enablement Working Group is currently [dismantled](https://github.com/ipfs/team-mgmt/pull/781).** Further team dev related issues should go into https://github.com/ipfs/infra
+
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 
 ## Dashboards
 
