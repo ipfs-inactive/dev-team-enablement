@@ -1,4 +1,4 @@
-# Dev Team Enablement Working Group
+# [ARCHIVED] Dev Team Enablement Working Group
 
 ## `NOTICE`
 
